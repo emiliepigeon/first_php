@@ -1,0 +1,4 @@
+#Options + FollowSymlinks
+RewriteEngine On
+
+RewriteRule "^cinema$" "movies.php" [L]

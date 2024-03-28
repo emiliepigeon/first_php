@@ -1,0 +1,11 @@
+{
+  "name": "acgd-review",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0"
+  }
+}
